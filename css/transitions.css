@@ -1,0 +1,26 @@
+div.card {
+    min-width: 320px;
+    width: 320px;
+}
+
+a.hover-effect {
+    position: relative;
+    overflow: hidden;
+}
+
+div.hover-effect {
+    content: '';
+    position: absolute;
+    top: 0;
+    height: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 255, 247, 0.5);
+    z-index: 9999999999;
+    opacity: 0;
+    transition: 0.3s ease-in-out;
+}
+
+div.hover-effect:hover {
+    opacity: 1;
+}
