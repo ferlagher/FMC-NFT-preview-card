@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/card-component-buided-with-bootstrap-nM-uSURHSv
 - Live Site URL: https://ferlagher.github.io/FMC-NFT-preview-card
 
 ## My process
